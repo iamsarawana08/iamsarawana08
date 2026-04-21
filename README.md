@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Contact
-- Email: yourmail@gmail.com  
-- LinkedIn: add your link  
+- Email: saravanakumarn619@gmail.com
+- LinkedIn: www.linkedin.com/in/saravanakumar-nagarajan-779535292  
 
 ---
 
