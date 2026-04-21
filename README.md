@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Saravanakumar N 👋
 
-<!--
-**iamsarawana08/iamsarawana08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚁 UAV Systems | Drone Developer | Mechatronics Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- Passionate about UAV systems & autonomous drones  
+- Skilled in Ardupilot, Mission Planner, FPV systems  
+- Building real-world drone solutions  
+- Developer of DROP X – 7-inch FPV Drone  
+- Working on Aerial Ambulance Drone 🚑  
+
+---
+
+## 🚀 Projects
+🔹 DROP X – Custom FPV Drone  
+🔹 Autonomous Delivery Drone  
+🔹 CropWhisperer (AI Agriculture System)  
+🔹 Aerial Ambulance Drone  
+
+---
+
+## 🛠️ Skills
+- Ardupilot, PX4  
+- Mission Planner, QGroundControl  
+- MATLAB, ROS2  
+- Fusion 360, ANSYS  
+- Embedded Systems  
+
+---
+
+## 📫 Contact
+- Email: yourmail@gmail.com  
+- LinkedIn: add your link  
+
+---
+
+## ⚡ Fun Fact
+I build drones from scratch 🚀
